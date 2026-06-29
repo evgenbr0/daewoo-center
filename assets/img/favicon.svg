@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Daewoo Center">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f9d68"/>
+      <stop offset="1" stop-color="#0b6b4f"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <g fill="none" stroke="#e8f6f0" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 13l2.7 1.1 2.7-1.1 1.6 2.5 2.9.3.4 2.9 2.5 1.6-.7 2.8 1.9 2.2-1.9 2.2.7 2.8-2.5 1.6-.4 2.9-2.9.3-1.6 2.5-2.7-1.1L32 51l-2.7-1.1-2.7 1.1-1.6-2.5-2.9-.3-.4-2.9-2.5-1.6.7-2.8L18 36l1.9-2.2-.7-2.8 2.5-1.6.4-2.9 2.9-.3 1.6-2.5 2.7 1.1z"/>
+  </g>
+  <path d="M27 24h7.5c4.4 0 7.5 3.4 7.5 8s-3.1 8-7.5 8H27V24z" fill="#e8f6f0"/>
+  <path d="M31.4 27.8v8.4h3c2.1 0 3.6-1.7 3.6-4.2s-1.5-4.2-3.6-4.2z" fill="#0b6b4f"/>
+</svg>
